@@ -1,9 +1,13 @@
 #packages: Tidyverse, to run the package we type library(tidyverse) and the package will be in our script
 library(tidyverse)
 library(readxl)
+
+#The author of this is Jon
+
+
 Bombus_pascourum_Sitio_Periodo <- read_excel("Bombus pascourum Sitio_Periodo.xlsx", 
                                                +     sheet = "Codigo B. pascuorum + medidas")
-View(Bombus_pascourum_Sitio_Periodo)
+
 
 Bombus_pascourum_Sitio_Periodo <- read_excel("Bombus_pascourum_Sitio_Periodo.xlsx", 
                                              +     sheet = "Codigo B. pascuorum + medidas")
