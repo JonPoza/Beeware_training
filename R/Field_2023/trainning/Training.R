@@ -5,6 +5,7 @@ library(readxl)
 #The author of this is Jon
 #but not a good author
 
+#I'm just editing for version control
 
 Bombus_pascourum_Sitio_Periodo <- read_excel("Bombus pascourum Sitio_Periodo.xlsx", 
                                                +     sheet = "Codigo B. pascuorum + medidas")
