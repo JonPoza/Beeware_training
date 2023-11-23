@@ -3,6 +3,7 @@ library(tidyverse)
 library(readxl)
 
 #The author of this is Jon
+#but not a good author
 
 
 Bombus_pascourum_Sitio_Periodo <- read_excel("Bombus pascourum Sitio_Periodo.xlsx", 
