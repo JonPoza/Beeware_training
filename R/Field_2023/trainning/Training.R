@@ -4,7 +4,7 @@ library(readxl)
 
 #trying to create a conflict with Alexandra
 
-## Analysis for Bumblebees in Aotearoa
+# Analysis for Bumblebees in Aotearoa
 
 #The author of this is Jon
 #but not a good author
