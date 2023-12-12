@@ -1,6 +1,7 @@
 #packages: Tidyverse, to run the package we type library(tidyverse) and the package will be in our script
 library(tidyverse)
 library(readxl)
+## Analysis for Bumblebees in Aotearoa
 
 #The author of this is Jon
 #but not a good author
